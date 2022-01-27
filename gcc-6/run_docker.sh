@@ -1,0 +1,1 @@
+docker run --rm -itv /home/yhz/yy/docker/gcc-6:/home/yhz/build  gcc:v1
